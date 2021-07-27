@@ -1,0 +1,24 @@
+_repo: The-Mischievous-Typesetter_65861
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Loomis, Noel M.
+    alias: Loomis, Noel Miller
+    birthdate: 1905
+    deathdate: 1969
+    gutenberg_agent_id: '35155'
+    url: http://www.gutenberg.org/2009/agents/35155
+    wikipedia: https://en.wikipedia.org/wiki/Noel_Loomis
+description: ''
+gutenberg_issued: '2021-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Mischievous Typesetter
+url: http://www.gutenberg.org/ebooks/65861
